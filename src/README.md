@@ -10,6 +10,5 @@
 ## Instructions how to run:
 Execute command 
 to run test ```gradle clean test```
-to generate report ```gradle allureReport, gradle allureServe```
 
 
