@@ -1,6 +1,6 @@
 # Bad example
 
-## Test scenario: Bad example to check the level of qa automation engineers
+## Test scenario: Bad example to check the level of qa automation engineers.
 
 ## Requirements:
 - Use any *object-oriented language*
